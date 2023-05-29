@@ -62,11 +62,14 @@ http://example.com/foo;key1=value1?key2=value2#key3=value3
 
 编码方式是 % + ASCII 十六进制字符，如空格字符的 URL 编码是 %20，% 字符编码是 %25。
 
-https://condor.depaul.edu/sjost/it236/documents/ascii.htm
-https://www.ietf.org/rfc/rfc2396.txt
 
 ## 绝对 URL 和相对 URL
 
 1、带协议的 URL 是绝对 URL。
 
 2、相对 URL 通过 index.html 中的 base URL 定位。如果没有指定 base URL，则以当前页面 URL 作为相对 URL。
+
+## 附录
+
+- https://condor.depaul.edu/sjost/it236/documents/ascii.htm
+- https://www.ietf.org/rfc/rfc2396.txt
