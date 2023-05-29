@@ -67,5 +67,6 @@ https://www.ietf.org/rfc/rfc2396.txt
 
 ## 绝对 URL 和相对 URL
 
-1、带协议的 URL 是绝对 URL
+1、带协议的 URL 是绝对 URL。
+
 2、相对 URL 通过 index.html 中的 base URL 定位。如果没有指定 base URL，则以当前页面 URL 作为相对 URL。
