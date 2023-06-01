@@ -73,3 +73,12 @@ http://example.com/foo;key1=value1?key2=value2#key3=value3
 
 - https://condor.depaul.edu/sjost/it236/documents/ascii.htm
 - https://www.ietf.org/rfc/rfc2396.txt
+
+
+cat .git/config
+
+```
+[user]
+	email = 867889876@qq.com
+	name = banli18
+```
