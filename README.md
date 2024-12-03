@@ -1,9 +1,8 @@
-# Linux NOTE
+# English NOTE
 
 ## 简介
 
-- 本仓库为学习 Linux 所记录的笔记
-- 专注于做个人项目时所用到的功能
+- 本仓库为学习 English 所记录的笔记
 
 感谢 🙏！
 
@@ -13,7 +12,8 @@
 
 ## 学习资料
 
-- 马哥 Linux
+- [English Grammar Lessons](https://www.youtube.com/playlist?list=PLD6t6ckHsruY_i7_rZhKcRBmXDdawiqUM)
+https://www.downloadyoutubesubtitles.com/
 
 ## 开源协议
 
